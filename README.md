@@ -1,4 +1,4 @@
-# mand-template
+# vue-mand-template
 
 > A Vue.js Project for Mand Mobile
 
